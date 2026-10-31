@@ -12,7 +12,7 @@ import streamlit as st
 # -------------------------------------------------------------------
 
 st.set_page_config(
-    page_title="AquiferGuard | Groundwater Intelligence",
+    page_title="Aquifera | Groundwater Intelligence",
     page_icon="💧",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -62,7 +62,7 @@ try:
     model = load_model()
     df = load_dataset()
 except Exception as error:
-    st.error("AquiferGuard could not load a required project file.")
+    st.error("Aquifera could not load a required project file.")
     st.code(str(error))
     st.info(
         "Check that the model and dataset folders are present in the repository "
@@ -550,7 +550,7 @@ with st.sidebar:
         <div class="brand-lockup">
             <div class="brand-mark">💧</div>
             <div>
-                <div class="brand-name">AquiferGuard</div>
+                <div class="brand-name">Aquifera</div>
                 <div class="brand-caption">Groundwater intelligence</div>
             </div>
         </div>
@@ -575,7 +575,7 @@ with st.sidebar:
     )
     st.markdown("---")
     st.markdown(
-        "[View GitHub repository ↗](https://github.com/jschouhan007/AquiferGuard)"
+        "[View GitHub repository ↗](https://github.com/jschouhan007/Aquifera)"
     )
     st.markdown(
         "[Open live dashboard ↗](https://aquifera.streamlit.app/)"
@@ -826,7 +826,7 @@ elif page == "Predict Risk":
     render_hero(
         "Machine learning workspace",
         "Estimate a groundwater risk category.",
-        "Enter the five water chemistry parameters below. AquiferGuard will pass them to the saved Decision Tree model and display its predicted class and estimated class probability.",
+        "Enter the five water chemistry parameters below. Aquifera will pass them to the saved Decision Tree model and display its predicted class and estimated class probability.",
         "Decision Tree classifier • five input parameters",
     )
 
@@ -1021,7 +1021,7 @@ elif page == "About":
     render_hero(
         "Project information",
         "A data-driven view of groundwater quality.",
-        "AquiferGuard is an academic predictive analytics project that explores groundwater uranium measurements and classifies samples into two project-defined categories.",
+        "Aquifera is an academic predictive analytics project that explores groundwater uranium measurements and classifies samples into two project-defined categories.",
         "Academic machine learning project",
     )
 
@@ -1030,7 +1030,7 @@ elif page == "About":
         """
         <div class="panel">
             <p style="color:#d9eaf5;line-height:1.8;">
-            AquiferGuard uses groundwater chemistry parameters to estimate whether a sample belongs to the
+            Aquifera uses groundwater chemistry parameters to estimate whether a sample belongs to the
             <b style="color:#ff9aa8;">Elevated</b> or
             <b style="color:#69e2bd;">Not Elevated</b> uranium category.
             The dashboard combines dataset exploration, descriptive statistics, model feature importance,
@@ -1096,7 +1096,7 @@ elif page == "About":
 st.markdown(
     """
     <div class="footer">
-        <b style="color:#a9c1d2;">AQUIFERGUARD</b> · Groundwater Uranium Risk Classification<br>
+        <b style="color:#a9c1d2;">AQUIFERA</b> · Groundwater Uranium Risk Classification<br>
         Academic predictive analytics project. Model outputs are estimates only and do not replace laboratory testing or official water-quality assessment.
     </div>
     """,
