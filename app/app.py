@@ -163,23 +163,92 @@ st.markdown(
         border-color: var(--border) !important;
     }
 
-    .stButton > button, .stDownloadButton > button,
+    /* High-contrast action buttons: dark text on bright teal/cyan */
+    .stButton > button,
+    .stDownloadButton > button,
     [data-testid="stFormSubmitButton"] > button {
-        border: 1px solid rgba(32, 214, 194, 0.42);
-        border-radius: 11px;
-        color: #04151b;
-        background: linear-gradient(100deg, #20d6c2, #42c9f5);
-        font-weight: 700;
+        border: 1px solid rgba(32, 214, 194, 0.55) !important;
+        border-radius: 11px !important;
+        color: #03151c !important;
+        -webkit-text-fill-color: #03151c !important;
+        background: linear-gradient(100deg, #20d6c2, #42c9f5) !important;
+        font-weight: 800 !important;
         min-height: 2.7rem;
         transition: all 160ms ease;
     }
 
-    .stButton > button:hover, .stDownloadButton > button:hover,
+    .stButton > button *,
+    .stDownloadButton > button *,
+    [data-testid="stFormSubmitButton"] > button * {
+        color: #03151c !important;
+        -webkit-text-fill-color: #03151c !important;
+    }
+
+    .stButton > button:hover,
+    .stDownloadButton > button:hover,
     [data-testid="stFormSubmitButton"] > button:hover {
-        border-color: #7af1e4;
-        color: #04151b;
+        border-color: #9af7ec !important;
+        color: #001116 !important;
+        background: linear-gradient(100deg, #4cebd9, #67d8fb) !important;
         box-shadow: 0 0 22px rgba(32, 214, 194, 0.20);
         transform: translateY(-1px);
+    }
+
+    /* Sidebar navigation is a set of full-width rounded rectangle controls */
+    [data-testid="stSidebar"] div[role="radiogroup"] {
+        gap: 9px !important;
+    }
+
+    [data-testid="stSidebar"] div[role="radiogroup"] > label {
+        display: flex !important;
+        align-items: center !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
+        padding: 12px 14px !important;
+        margin: 0 !important;
+        border: 1px solid rgba(145, 169, 189, 0.16) !important;
+        border-radius: 12px !important;
+        background: rgba(16, 35, 54, 0.58) !important;
+        cursor: pointer !important;
+        transition: all 150ms ease !important;
+    }
+
+    [data-testid="stSidebar"] div[role="radiogroup"] > label > div:first-child {
+        display: none !important;
+    }
+
+    [data-testid="stSidebar"] div[role="radiogroup"] > label p {
+        color: #b9ccdc !important;
+        font-weight: 600 !important;
+        margin: 0 !important;
+    }
+
+    [data-testid="stSidebar"] div[role="radiogroup"] > label:hover {
+        border-color: rgba(32, 214, 194, 0.48) !important;
+        background: rgba(32, 214, 194, 0.09) !important;
+    }
+
+    [data-testid="stSidebar"] div[role="radiogroup"] > label:has(input:checked) {
+        border-color: rgba(32, 214, 194, 0.72) !important;
+        background: linear-gradient(100deg, rgba(32, 214, 194, 0.19), rgba(66, 201, 245, 0.11)) !important;
+        box-shadow: inset 3px 0 0 #20d6c2, 0 5px 18px rgba(0, 0, 0, 0.12) !important;
+    }
+
+    [data-testid="stSidebar"] div[role="radiogroup"] > label:has(input:checked) p {
+        color: #8df1e5 !important;
+        font-weight: 800 !important;
+    }
+
+    .page-heading {
+        margin: 3px 0 27px 0;
+        padding: 0 0 16px 0;
+        border-bottom: 1px solid rgba(145, 169, 189, 0.14);
+    }
+
+    .page-title {
+        font-size: clamp(1.75rem, 3vw, 2.35rem);
+        line-height: 1.18;
+        margin: 0 !important;
     }
 
     [data-testid="stTextInput"] input,
@@ -460,14 +529,13 @@ def elevated_probability(input_data):
     return 0.0
 
 
-def render_hero(eyebrow, title, description, chip="CGWB groundwater quality dataset"):
+def render_hero(eyebrow, title, description=None, chip=None):
+    # Keep a clean page heading, but remove the large introductory information card.
     st.markdown(
         f"""
-        <div class="hero">
+        <div class="page-heading">
             <div class="eyebrow">{eyebrow}</div>
-            <h1>{title}</h1>
-            <p>{description}</p>
-            <div class="hero-chip">✦ {chip}</div>
+            <h1 class="page-title">{title}</h1>
         </div>
         """,
         unsafe_allow_html=True,
@@ -506,20 +574,6 @@ with st.sidebar:
         }[item],
     )
     st.markdown("---")
-    st.markdown(
-        """
-        <div class="panel">
-            <div class="panel-label">Model status</div>
-            <div style="color:#69e2bd;font-weight:700;">● Model loaded</div>
-            <div class="muted-small" style="margin-top:8px;">
-                Decision Tree classification<br>
-                Five groundwater parameters
-            </div>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
-    st.markdown("")
     st.markdown(
         "[View GitHub repository ↗](https://github.com/jschouhan007/AquiferGuard)"
     )
