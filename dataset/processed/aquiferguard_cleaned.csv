@@ -1,0 +1,432 @@
+Station,District,Potential of Hydrogen (pH),Electric Conductivity (μS/cm),Bicarbonate (mg/L),Chloride (mg/L),Sodium (mg/L),Uranium(mg/L),Uranium_Risk,Risk_Category
+Ablu,BATHINDA,8.15,710.0,220.0,40.0,65.0,0.0,0,Not Elevated
+Abohar,FAZILKA,7.95,8768.0,366.0,1293.0,1565.0,0.0,0,Not Elevated
+Adampur 1(d),JALANDHAR,7.84,842.0,416.0,35.0,69.0,0.0,0,Not Elevated
+Adampur 3(s),JALANDHAR,8.75,511.0,305.0,14.0,100.0,0.01,0,Not Elevated
+Adowal Garhi-Pz,HOSHIARPUR,8.12,316.0,195.0,7.0,17.0,0.01,0,Not Elevated
+Adowal Garhi-Pz,HOSHIARPUR,8.29,407.0,232.0,28.0,20.0,0.0,0,Not Elevated
+Ahmedpur,ROPAR,7.88,1100.0,488.0,107.0,96.0,0.02,0,Not Elevated
+Ajnala,AMRITSAR,8.4,1100.0,305.0,121.0,170.0,0.04,1,Elevated
+Alamgarh,FAZILKA,7.97,2433.0,415.0,290.0,214.0,0.01,0,Not Elevated
+Alamgarh,FAZILKA,8.21,1108.0,293.0,177.0,104.0,0.02,0,Not Elevated
+Allawalpur,JALANDHAR,8.1,715.0,244.0,50.0,56.0,0.04,1,Elevated
+Allowal,PATIALA,7.8,818.0,574.0,28.0,130.0,0.03,0,Not Elevated
+Allowal,PATIALA,7.96,720.0,510.0,20.0,72.0,0.02,0,Not Elevated
+Amloh,FATEHGARH SAHIB,7.84,560.0,281.0,36.0,28.0,0.01,0,Not Elevated
+Amloh1,FATEHGARH SAHIB,8.22,468.0,250.0,21.0,21.0,0.01,0,Not Elevated
+Amritsar,AMRITSAR,8.22,602.0,317.0,28.0,72.0,0.07,1,Elevated
+Antala,MOHALI,8.02,609.0,310.0,28.0,61.0,0.0,0,Not Elevated
+Antala,MOHALI,7.91,1050.0,586.0,64.0,58.0,0.0,0,Not Elevated
+Aulakhkalan,GURDASPUR,8.1,437.0,232.0,14.0,19.0,0.0,0,Not Elevated
+Badalialasingh,FATEHGARH SAHIB,8.54,737.0,281.0,36.0,115.0,0.01,0,Not Elevated
+Badalialasingh,FATEHGARH SAHIB,8.11,840.0,525.0,28.0,104.0,0.01,0,Not Elevated
+Badiala-Pz,BATHINDA,8.2,2520.0,525.0,242.0,442.0,0.07,1,Elevated
+Badiala-Pz,BATHINDA,7.77,3152.0,927.5,269.4,641.0,0.05,1,Elevated
+Badrukhan (m),SANGRUR,8.4,1500.0,879.0,35.0,315.0,0.08,1,Elevated
+Badrukhan (m),SANGRUR,8.16,1700.0,756.0,92.0,350.0,0.04,1,Elevated
+Bagarian-Pz,SANGRUR,8.12,485.0,366.0,14.0,62.0,0.02,0,Not Elevated
+Bagarian-Pz,SANGRUR,8.05,662.0,434.0,13.0,62.0,0.02,0,Not Elevated
+Bahlora Kallan- Pz,SBS NAGAR,7.7,916.0,512.0,36.0,100.0,0.06,1,Elevated
+Bahman Kaur Singh-Pz,BATHINDA,8.44,480.0,146.0,13.0,24.0,0.01,0,Not Elevated
+Bahman Kaur Singh-Pz,BATHINDA,8.34,421.0,158.7,14.0,18.0,0.01,0,Not Elevated
+Baja Khana,FARIDKOT,8.45,3450.0,818.0,303.0,705.0,0.09,1,Elevated
+Baja Khana,FARIDKOT,8.05,1231.0,427.0,177.0,223.0,0.01,0,Not Elevated
+Baje Ke-Pz,MOGA,8.5,820.0,366.0,35.0,200.0,0.03,0,Not Elevated
+Baje Ke-Pz,MOGA,7.65,769.0,521.0,13.0,22.0,0.01,0,Not Elevated
+Balachore,SBS NAGAR,7.88,630.0,378.0,14.0,42.0,0.0,0,Not Elevated
+Balluana1,BATHINDA,8.1,5405.0,903.0,680.0,660.0,0.1,1,Elevated
+Balluana1,BATHINDA,7.45,5675.0,1159.0,673.6,703.0,0.04,1,Elevated
+Balocha Khera(rasoolpur),MUKATSAR,8.0,1155.0,183.0,135.0,95.0,0.0,0,Not Elevated
+Balocha Khera(rasoolpur),MUKATSAR,7.4,1560.0,341.7,141.8,131.0,0.0,0,Not Elevated
+Bamyal,PATHANKOT,8.16,1128.0,561.0,71.0,99.0,0.0,0,Not Elevated
+Barnala,BARNALA,8.37,1118.0,610.0,50.0,210.0,0.03,0,Not Elevated
+Barnala (m),BARNALA,8.11,1282.0,728.0,59.0,205.0,0.03,0,Not Elevated
+Bassi Pathana,FATEHGARH SAHIB,7.53,1170.0,512.0,107.0,109.0,0.02,0,Not Elevated
+Bassi Pathna (Ab),FATEHGARH SAHIB,8.53,519.0,177.0,7.1,46.0,0.03,0,Not Elevated
+Bassma Pipla,PATIALA,7.65,2354.0,439.0,354.0,180.0,0.01,0,Not Elevated
+Bassma Pipla,PATIALA,7.25,4642.0,782.0,679.0,402.0,0.0,0,Not Elevated
+Bead Sikhanwala- Pz,FARIDKOT,8.05,620.0,305.0,34.0,51.0,0.0,0,Not Elevated
+Bead Sikhanwala- Pz,FARIDKOT,8.24,315.0,118.0,57.0,3.0,0.0,0,Not Elevated
+Beas07,AMRITSAR,8.02,710.0,342.0,71.0,77.0,0.01,0,Not Elevated
+Benra-PZ-S,SANGRUR,8.48,940.0,488.0,14.0,105.0,0.04,1,Elevated
+Bera Chauta,ROPAR,8.34,658.0,214.0,43.0,52.0,0.0,0,Not Elevated
+Bera Chauta,ROPAR,7.91,930.0,549.0,57.0,67.0,0.0,0,Not Elevated
+Bhaddal Tuha-Pz,FATEHGARH SAHIB,8.53,998.0,463.0,21.0,170.0,0.04,1,Elevated
+Bhaddal Tuha-Pz,FATEHGARH SAHIB,8.07,680.0,390.0,36.0,77.0,0.01,0,Not Elevated
+Bhagibandar,BATHINDA,8.22,3325.0,8.5,411.0,420.0,0.01,0,Not Elevated
+Bhagibandar,BATHINDA,8.04,2996.0,1623.0,184.3,746.0,0.25,1,Elevated
+Bhagowal,GURDASPUR,8.28,376.0,207.0,7.1,18.0,0.0,0,Not Elevated
+Bhagowal,GURDASPUR,7.88,505.0,260.0,50.0,18.0,0.0,0,Not Elevated
+Bhagrana,FATEHGARH SAHIB,8.33,1042.0,317.0,121.0,102.0,0.01,0,Not Elevated
+Bhalan,ROPAR,8.25,837.0,299.0,121.0,92.0,0.11,1,Elevated
+Bhalan,ROPAR,7.79,885.0,488.0,64.0,66.0,0.02,0,Not Elevated
+Bhaliana,MUKATSAR,7.87,6078.0,500.0,727.0,522.0,0.01,0,Not Elevated
+Bhaliana,MUKATSAR,7.48,5920.0,756.6,673.6,760.0,0.01,0,Not Elevated
+Bham,GURDASPUR,7.74,557.0,310.0,35.0,37.0,0.01,0,Not Elevated
+Bhamnaur,HOSHIARPUR,8.05,325.0,207.0,10.0,16.0,0.02,0,Not Elevated
+Bhateri1,FATEHGARH SAHIB,8.35,583.0,226.0,14.0,52.0,0.01,0,Not Elevated
+Bhatnura Khurd-  D,KAPURTHALA,8.1,1432.0,610.0,163.0,135.0,0.1,1,Elevated
+Bhatnura Khurd-  D,KAPURTHALA,8.04,356.0,217.0,21.0,60.0,0.0,0,Not Elevated
+Bhikhi 1 (s),MANSA,8.4,478.0,220.0,13.0,63.0,0.04,1,Elevated
+Bhikhi 2 (s),MANSA,7.63,665.0,414.9,7.0,107.0,0.04,1,Elevated
+Bhikiwind,TARN TARAN,8.17,731.0,354.0,57.0,101.0,0.07,1,Elevated
+Bhoa,PATHANKOT,8.05,430.0,183.0,21.0,28.0,0.0,0,Not Elevated
+Bhoa,PATHANKOT,7.82,750.0,366.0,64.0,23.0,0.0,0,Not Elevated
+Bhojowali-Pz,SANGRUR,8.5,1600.0,769.0,121.0,352.0,0.1,1,Elevated
+Bhojowali-Pz,SANGRUR,8.16,618.0,402.0,20.0,96.0,0.02,0,Not Elevated
+Bhulan,SANGRUR,8.25,1455.0,574.0,149.0,130.0,0.03,0,Not Elevated
+Bhulan,SANGRUR,7.98,1732.0,663.0,204.0,145.0,0.03,0,Not Elevated
+Bhunerheri-Pz,PATIALA,8.17,810.0,434.0,59.0,75.0,0.02,0,Not Elevated
+Billi Chahrami-Pz,JALANDHAR,8.55,658.0,183.0,35.0,63.0,0.01,0,Not Elevated
+Billi Chahrami-Pz,JALANDHAR,7.78,857.0,427.0,49.0,60.0,0.01,0,Not Elevated
+Birkauli,PATIALA,7.8,1787.0,652.0,132.0,270.0,0.03,0,Not Elevated
+Braham Pur,ROPAR,8.49,418.0,98.0,21.0,18.0,0.0,0,Not Elevated
+Braham Pur,ROPAR,8.16,460.0,244.0,36.0,7.0,0.0,0,Not Elevated
+Budhlada-Pz,MANSA,8.02,3327.0,696.0,303.0,620.0,0.47,1,Elevated
+Budh Singh Wala-Pz,MOGA,8.42,1235.0,635.0,50.0,240.0,0.04,1,Elevated
+Budh Singh Wala-Pz,MOGA,8.21,1120.0,576.0,46.0,200.0,0.03,0,Not Elevated
+Bugra (main),SANGRUR,8.4,624.0,305.0,14.0,124.0,0.02,0,Not Elevated
+Burj Bhalaike,MANSA,7.57,1900.0,622.4,262.3,260.0,0.01,0,Not Elevated
+Chahd Baja,FARIDKOT,8.25,1947.0,549.0,216.0,302.0,0.01,0,Not Elevated
+Chahd Baja,FARIDKOT,7.91,2316.0,732.0,432.0,319.0,0.01,0,Not Elevated
+Chakdera,ROPAR,7.82,593.0,299.0,21.0,16.0,0.01,0,Not Elevated
+Chak Sheru-DW,HOSHIARPUR,8.0,631.0,330.0,27.0,40.0,0.01,0,Not Elevated
+Chatamli- Pz,ROPAR,8.73,867.0,293.0,28.0,116.0,0.01,0,Not Elevated
+Chatamli- Pz,ROPAR,7.93,830.0,427.0,50.0,52.0,0.0,0,Not Elevated
+Chehal-Pz,PATIALA,7.92,687.0,336.0,83.0,82.0,0.04,1,Elevated
+Chehal-Pz,PATIALA,7.87,743.0,489.0,13.0,90.0,0.02,0,Not Elevated
+Chhat,PATIALA,7.96,1105.0,608.0,53.0,138.0,0.0,0,Not Elevated
+Chogawan,AMRITSAR,8.34,482.0,183.0,21.0,60.0,0.01,0,Not Elevated
+Chogawan-Pz,MOGA,8.7,1190.0,390.0,35.0,295.0,0.04,1,Elevated
+Chogawan-Pz,MOGA,8.1,1372.0,825.0,46.0,230.0,0.04,1,Elevated
+Chohal,HOSHIARPUR,7.98,397.0,195.0,20.2,29.0,0.0,0,Not Elevated
+Chola Sahib-Pz,TARN TARAN,8.27,440.0,244.0,14.0,34.0,0.0,0,Not Elevated
+Chola Sahib-Pz,TARN TARAN,7.83,533.0,300.0,35.0,37.0,0.0,0,Not Elevated
+Chunni Kalan,FATEHGARH SAHIB,8.35,652.0,189.0,36.0,73.0,0.01,0,Not Elevated
+Chunni Kalan,FATEHGARH SAHIB,7.84,1042.0,586.0,71.0,108.0,0.0,0,Not Elevated
+Chural Kalan M,SANGRUR,8.6,1530.0,879.0,28.0,348.0,0.39,1,Elevated
+Chural Kalan M,SANGRUR,8.32,1592.0,923.0,26.0,390.0,0.3,1,Elevated
+DAGAN-DW,HOSHIARPUR,8.1,380.0,183.0,20.0,38.0,0.0,0,Not Elevated
+DAGAN-DW,HOSHIARPUR,7.94,395.0,170.0,43.0,16.0,0.0,0,Not Elevated
+Dagru- Pz,MOGA,8.5,1530.0,183.0,142.0,305.0,0.01,0,Not Elevated
+Dagru- Pz,MOGA,8.15,817.0,424.0,20.0,180.0,0.03,0,Not Elevated
+Dahak-S,MUKATSAR,7.72,1667.0,439.3,198.5,215.0,0.03,0,Not Elevated
+Dakoha-Pz,GURDASPUR,7.97,430.0,232.0,7.1,20.0,0.0,0,Not Elevated
+Dalla,KAPURTHALA,8.32,693.0,317.0,50.0,82.0,0.02,0,Not Elevated
+Dalla,KAPURTHALA,7.7,844.0,517.0,28.0,34.0,0.02,0,Not Elevated
+Dal Singh Wala,FARIDKOT,8.2,2470.0,476.0,249.0,440.0,0.03,0,Not Elevated
+Dal Singh Wala,FARIDKOT,8.27,1724.0,537.0,277.0,205.0,0.02,0,Not Elevated
+Damru Khurd,MOGA,8.04,628.0,354.0,14.0,23.0,0.01,0,Not Elevated
+Damru Khurd,MOGA,7.95,1525.0,272.0,119.0,195.0,0.01,0,Not Elevated
+Danewal Satkosi,FAZILKA,8.04,3130.0,561.0,681.0,411.0,0.02,0,Not Elevated
+Danger Khera-Pz,FAZILKA,7.94,4568.0,464.0,1305.0,744.0,0.02,0,Not Elevated
+Darapur,MOGA,8.35,1100.0,525.0,50.0,190.0,0.03,0,Not Elevated
+Darapur,MOGA,8.28,2263.0,1162.0,132.0,560.0,0.03,0,Not Elevated
+Dasuya1 (d),HOSHIARPUR,7.86,501.0,281.0,13.0,27.0,0.04,1,Elevated
+Dasuya1 (d),HOSHIARPUR,8.08,847.0,403.0,57.0,36.0,0.0,0,Not Elevated
+Dera Baba Nanak,GURDASPUR,8.04,341.0,232.0,14.0,42.0,0.0,0,Not Elevated
+Dera Baba Nanak,GURDASPUR,7.81,906.0,480.0,57.0,42.0,0.0,0,Not Elevated
+Deratapp,BATHINDA,8.4,507.0,146.0,27.0,20.0,0.02,0,Not Elevated
+Deratapp,BATHINDA,7.75,700.0,329.5,35.0,32.0,0.02,0,Not Elevated
+Devigarh,PATIALA,7.91,1002.0,554.0,40.0,140.0,0.02,0,Not Elevated
+Deviwala-Pz,FARIDKOT,8.5,1560.0,574.0,47.0,400.0,0.08,1,Elevated
+Dhair,ROPAR,7.62,648.0,317.0,43.0,31.0,0.0,0,Not Elevated
+Dhair,ROPAR,7.64,734.0,366.0,64.0,26.0,0.0,0,Not Elevated
+Dhakdaba 07,PATIALA,8.63,930.0,402.0,46.0,238.0,0.0,0,Not Elevated
+Dhapali,BATHINDA,8.25,320.0,171.0,6.7,49.0,0.02,0,Not Elevated
+Dheri,MOHALI,8.24,726.0,342.0,57.0,88.0,0.01,0,Not Elevated
+Dheri,MOHALI,8.12,830.0,439.0,71.0,89.0,0.01,0,Not Elevated
+Dhianpur,GURDASPUR,8.02,366.0,244.0,14.0,23.0,0.0,0,Not Elevated
+Dhilwan Kalan,FARIDKOT,8.5,1345.0,574.0,47.0,250.0,0.1,1,Elevated
+Dhilwan Kalan,FARIDKOT,8.39,2051.0,464.0,390.0,345.0,0.05,1,Elevated
+Dialpur Mirza,BATHINDA,8.65,2035.0,647.0,108.0,460.0,0.12,1,Elevated
+Dialpur Mirza,BATHINDA,7.98,2021.0,964.1,106.4,444.0,0.08,1,Elevated
+Dinanagar,GURDASPUR,8.02,705.0,391.0,35.0,40.0,0.0,0,Not Elevated
+Dinanagar,GURDASPUR,7.79,850.0,460.0,71.0,35.0,0.0,0,Not Elevated
+Dipsinghwala,FARIDKOT,8.47,2390.0,647.0,141.0,520.0,0.01,0,Not Elevated
+Dipsinghwala,FARIDKOT,7.89,2378.0,1147.0,199.0,471.0,0.02,0,Not Elevated
+Dipulana-Pz,FAZILKA,8.38,3910.0,744.0,303.0,785.0,0.11,1,Elevated
+Dipulana-Pz,FAZILKA,8.69,3660.0,708.0,596.0,706.0,0.1,1,Elevated
+Doburji,TARN TARAN,8.25,352.0,220.0,7.1,23.0,0.01,0,Not Elevated
+Doda-Pz,MUKATSAR,8.04,4042.0,452.0,546.0,530.0,0.04,1,Elevated
+Doda-Pz,MUKATSAR,7.46,4360.0,683.4,553.0,574.0,0.05,1,Elevated
+Doraha-Pz,LUDHIANA,8.1,607.0,244.0,28.0,21.0,0.0,0,Not Elevated
+Dumewal,ROPAR,7.81,499.0,238.0,28.0,22.0,0.01,0,Not Elevated
+Dumewal,ROPAR,7.65,798.0,366.0,85.0,48.0,0.03,0,Not Elevated
+Fatehgarh Sahib,FATEHGARH SAHIB,8.58,707.0,214.0,36.0,63.0,0.01,0,Not Elevated
+Fatehgarh Sahib,FATEHGARH SAHIB,7.5,863.0,427.0,28.0,67.0,0.04,1,Elevated
+Fattamaluka,MANSA,8.42,1987.0,598.0,202.0,365.0,0.1,1,Elevated
+Gago Mahal- Pz,AMRITSAR,8.39,382.0,207.0,7.1,62.0,0.0,0,Not Elevated
+Galri,GURDASPUR,7.92,575.0,301.0,43.0,21.0,0.0,0,Not Elevated
+Gandi Wind-Pz,TARN TARAN,8.2,623.0,380.0,35.0,52.0,0.02,0,Not Elevated
+Ganga-Pz,BATHINDA,8.1,1345.0,366.0,115.0,145.0,0.07,1,Elevated
+Garh Di Wala-Pz,HOSHIARPUR,8.07,496.0,244.0,34.0,44.0,0.01,0,Not Elevated
+Garhshankar (s),HOSHIARPUR,8.08,679.0,377.0,21.0,35.0,0.02,0,Not Elevated
+Ghanauri Kalan,SANGRUR,8.14,1185.0,574.0,121.0,150.0,0.04,1,Elevated
+Ghanauri Kalan,SANGRUR,8.1,714.0,456.0,26.0,82.0,0.02,0,Not Elevated
+Ghania Ki bangar- Pz,GURDASPUR,8.18,419.0,281.0,7.1,24.0,0.0,0,Not Elevated
+Gharotakalan,PATHANKOT,7.97,312.0,195.0,7.1,16.0,0.0,0,Not Elevated
+Gharotakalan,PATHANKOT,7.95,1649.0,574.0,142.0,181.0,0.01,0,Not Elevated
+Ghoga,MOHALI,7.96,695.0,360.0,36.0,68.0,0.0,0,Not Elevated
+Ghoga,MOHALI,7.76,900.0,488.0,50.0,41.0,0.0,0,Not Elevated
+Ghoh DW,PATHANKOT,7.56,253.0,100.0,35.0,12.0,0.0,0,Not Elevated
+Gholu majra 07pz,MOHALI,7.64,3470.0,561.0,462.0,358.0,0.01,0,Not Elevated
+Ghudda-Pz,BATHINDA,7.38,1905.0,573.6,177.3,224.0,0.03,0,Not Elevated
+Gohiran,JALANDHAR,8.05,596.0,330.0,35.0,51.0,0.01,0,Not Elevated
+Gohiran,JALANDHAR,7.91,774.0,403.0,56.0,50.0,0.01,0,Not Elevated
+Goindwal,TARN TARAN,8.35,486.0,207.0,21.0,74.0,0.0,0,Not Elevated
+Goindwal,TARN TARAN,7.7,1060.0,488.0,113.0,86.0,0.02,0,Not Elevated
+Gopalpur 2(s),LUDHIANA,8.33,1230.0,732.0,24.0,175.0,0.08,1,Elevated
+goraya,JALANDHAR,7.78,692.0,417.0,14.0,27.0,0.01,0,Not Elevated
+Gulabgarh 1 (s),BATHINDA,7.69,1869.0,414.9,163.1,307.0,0.03,0,Not Elevated
+Gulabgarh 3 (m),BATHINDA,8.4,3040.0,256.0,343.5,570.0,0.01,0,Not Elevated
+Guru Sar-Pz,BATHINDA,8.38,2420.0,659.0,209.0,422.0,0.19,1,Elevated
+Guru Sar-Pz,BATHINDA,738.0,2991.0,988.5,269.4,463.0,0.1,1,Elevated
+Haler Rampur-DW,HOSHIARPUR,8.42,406.0,268.0,13.0,25.0,0.0,0,Not Elevated
+Harchowal-Pz-D,GURDASPUR,8.28,240.0,146.0,7.1,3.05,0.0,0,Not Elevated
+Hardinamoh,ROPAR,7.87,776.0,451.0,57.0,41.0,0.0,0,Not Elevated
+Hargobindpur,GURDASPUR,8.0,515.0,232.0,28.0,31.0,0.0,0,Not Elevated
+Hargobindpur,GURDASPUR,7.65,731.0,342.0,57.0,32.0,0.0,0,Not Elevated
+Hari Majra,PATIALA,8.08,2413.0,610.0,139.0,500.0,0.01,0,Not Elevated
+Hari Majra,PATIALA,8.13,1960.0,749.0,66.0,420.0,0.0,0,Not Elevated
+Hazipur,HOSHIARPUR,8.12,530.0,293.0,34.0,48.0,0.11,1,Elevated
+Hussainpura-D Pz,KAPURTHALA,8.04,620.0,354.0,28.0,51.0,0.02,0,Not Elevated
+Hussainpura-D Pz,KAPURTHALA,7.52,806.0,342.0,56.0,52.0,0.01,0,Not Elevated
+Ikloha-Pz,LUDHIANA,7.75,865.0,390.0,62.0,27.0,0.02,0,Not Elevated
+Inayatpur-PZ-D,FATEHGARH SAHIB,8.27,797.0,366.0,64.0,110.0,0.01,0,Not Elevated
+Inayatpur-PZ-D,FATEHGARH SAHIB,7.87,930.0,464.0,107.0,113.0,0.0,0,Not Elevated
+Issapur- DW,MOHALI,8.19,689.0,372.0,28.0,78.0,0.0,0,Not Elevated
+Issapur- DW,MOHALI,7.98,4800.0,805.0,731.0,506.0,0.02,0,Not Elevated
+Jagraon,LUDHIANA,8.2,682.0,366.0,42.0,90.0,0.02,0,Not Elevated
+Jaimal wala-Pz,FEROZEPUR,8.55,611.0,171.0,20.0,73.0,0.03,0,Not Elevated
+Jajjal,BATHINDA,8.17,1575.0,403.0,209.0,205.0,0.0,0,Not Elevated
+Jajjal,BATHINDA,8.02,312.0,134.2,14.0,10.0,0.0,0,Not Elevated
+Jalandhar 1(d),JALANDHAR,7.86,760.0,384.0,49.0,36.0,0.01,0,Not Elevated
+Jalandhar 3(vs),JALANDHAR,8.28,448.0,232.0,43.0,42.0,0.0,0,Not Elevated
+Jalbhe,JALANDHAR,8.55,413.0,220.0,7.0,70.0,0.01,0,Not Elevated
+Jalbhe,JALANDHAR,7.61,864.0,449.0,35.0,96.0,0.03,0,Not Elevated
+Jandiala Guru-Pz,AMRITSAR,8.12,389.0,244.0,14.0,33.0,0.01,0,Not Elevated
+Jandiala Guru-Pz,AMRITSAR,7.9,484.0,287.0,28.0,28.0,0.01,0,Not Elevated
+Jandiala-Pz,JALANDHAR,7.64,977.0,396.0,91.0,84.0,0.01,0,Not Elevated
+Jand Sahib-Pz,FARIDKOT,8.27,2002.0,464.0,175.0,380.0,0.04,1,Elevated
+Jand Sahib-Pz,FARIDKOT,8.15,2513.0,574.0,411.0,461.0,0.05,1,Elevated
+Jandu Singha-Pz,JALANDHAR,8.48,718.0,85.0,71.0,86.0,0.0,0,Not Elevated
+Jandu Singha-Pz,JALANDHAR,7.44,937.0,468.0,49.0,69.0,0.0,0,Not Elevated
+Jassi Bhagwali,BATHINDA,7.43,1481.0,622.4,92.0,190.0,0.02,0,Not Elevated
+Jassi Bhagwali,BATHINDA,8.5,888.0,305.0,27.0,200.0,0.02,0,Not Elevated
+Jhakolahri,PATHANKOT,7.87,395.0,244.0,7.1,6.99,0.0,0,Not Elevated
+Jhakolahri,PATHANKOT,8.07,519.0,264.0,43.0,7.0,0.0,0,Not Elevated
+Jhanda Khurd,MANSA,8.47,1912.0,342.0,216.0,350.0,0.03,0,Not Elevated
+Jhanda Khurd,MANSA,7.81,1435.0,390.5,163.1,211.0,0.02,0,Not Elevated
+Jhanduke,BATHINDA,8.5,1070.0,281.0,81.0,178.0,0.04,1,Elevated
+Jhanduke,BATHINDA,7.86,1240.0,488.2,77.9,144.0,0.03,0,Not Elevated
+Jhir Da Khuh-DW,HOSHIARPUR,8.23,223.0,110.0,17.0,15.0,0.01,0,Not Elevated
+Joli,MOHALI,7.97,1940.0,214.0,447.0,168.0,0.01,0,Not Elevated
+Joli,MOHALI,8.02,1548.0,695.0,199.0,127.0,0.0,0,Not Elevated
+Kabar Wala,MUKATSAR,8.28,3027.0,720.0,377.0,625.0,0.03,0,Not Elevated
+Kabar Wala,MUKATSAR,7.55,4170.0,878.7,616.8,800.0,0.83,1,Elevated
+Kakrali,ROPAR,8.44,894.0,262.0,50.0,67.0,0.01,0,Not Elevated
+Kakrali,ROPAR,8.27,820.0,427.0,71.0,42.0,0.01,0,Not Elevated
+Kalanaur1,GURDASPUR,7.92,314.0,232.0,14.0,27.0,0.0,0,Not Elevated
+Kalanaur1,GURDASPUR,8.24,401.0,180.0,57.0,22.0,0.0,0,Not Elevated
+Kalla Bandar,BATHINDA,8.48,1152.0,439.0,54.0,205.0,0.07,1,Elevated
+Kalla Bandar,BATHINDA,7.6,1401.0,598.0,85.0,172.0,0.02,0,Not Elevated
+Kalsia Kalan,TARN TARAN,8.17,536.0,366.0,7.1,90.0,0.01,0,Not Elevated
+Kalsia Kalan,TARN TARAN,8.23,570.0,244.0,43.0,26.0,0.0,0,Not Elevated
+Kalyan Sukha-Pz,BATHINDA,8.17,2565.0,500.0,229.0,385.0,0.13,1,Elevated
+Kami Kalan,PATIALA,7.7,1330.0,464.0,83.0,175.0,0.01,0,Not Elevated
+Kami Kalan,PATIALA,7.58,1350.0,521.0,79.0,170.0,0.0,0,Not Elevated
+Kapurthala1 (d),KAPURTHALA,8.2,425.0,281.0,21.0,41.0,0.01,0,Not Elevated
+Kapurthala1 (d),KAPURTHALA,7.71,421.0,251.0,14.0,42.0,0.01,0,Not Elevated
+Karirwali,FARIDKOT,8.05,4155.0,610.0,418.0,502.0,0.12,1,Elevated
+Karirwali,FARIDKOT,8.26,1915.0,464.0,291.0,221.0,0.03,0,Not Elevated
+Kartarpur 1(d),JALANDHAR,8.22,875.0,195.0,121.0,84.0,0.02,0,Not Elevated
+Kartarpur 2(s),JALANDHAR,7.53,696.0,387.0,21.0,38.0,0.01,0,Not Elevated
+Kauni-Pz,FARIDKOT,8.68,1440.0,452.0,177.0,271.0,0.05,1,Elevated
+Khadur Sahib-Pz,TARN TARAN,8.27,656.0,439.0,14.0,105.0,0.02,0,Not Elevated
+Khadur Sahib-Pz,TARN TARAN,7.93,844.0,488.0,50.0,86.0,0.02,0,Not Elevated
+Khanikhui,PATHANKOT,7.55,1149.0,513.0,121.0,88.0,0.02,0,Not Elevated
+Kharal Kalan Pz-S,JALANDHAR,8.15,742.0,403.0,14.0,55.0,0.01,0,Not Elevated
+Kharal Kalan Pz-S,JALANDHAR,8.16,401.0,249.0,14.0,73.0,0.0,0,Not Elevated
+Kheliwala (d),BATHINDA,8.65,1505.0,378.0,101.0,342.0,0.06,1,Elevated
+Kheliwala (d),BATHINDA,8.51,1125.0,317.3,106.4,225.0,0.01,0,Not Elevated
+Khuiansarwar- Pz,FAZILKA,8.1,6178.0,1037.0,1241.0,1051.0,0.03,0,Not Elevated
+Khunde Halal-Pz,MUKATSAR,8.06,1724.0,646.8,106.4,399.0,0.06,1,Elevated
+Kiari- DW,PATHANKOT,7.92,370.0,256.0,7.1,22.0,0.0,0,Not Elevated
+Kiari- DW,PATHANKOT,7.84,705.0,310.0,71.0,30.0,0.0,0,Not Elevated
+Killi-Pz,FARIDKOT,8.65,3923.0,1037.0,269.0,755.0,0.02,0,Not Elevated
+Killi-Pz,FARIDKOT,8.21,3239.0,1074.0,390.0,550.0,0.03,0,Not Elevated
+Kot Dhamru,MANSA,8.4,1067.0,159.0,108.0,235.0,0.0,0,Not Elevated
+Kothaguru-Pz,BATHINDA,7.93,2512.0,1184.0,141.8,568.0,0.09,1,Elevated
+Kot Kapura,FARIDKOT,8.1,1600.0,513.0,121.0,145.0,0.02,0,Not Elevated
+Kot Kapura,FARIDKOT,8.21,1099.0,268.0,142.0,72.0,0.01,0,Not Elevated
+Kotra,MANSA,8.35,1430.0,415.0,94.3,215.0,0.08,1,Elevated
+Kotra,MANSA,7.2,1792.0,878.7,141.8,191.0,0.07,1,Elevated
+Kot Shamir,BATHINDA,8.02,2875.0,488.0,364.0,430.0,0.07,1,Elevated
+Kot Shamir,BATHINDA,7.77,2944.0,622.4,326.1,450.0,0.05,1,Elevated
+Kui-DW,PATHANKOT,8.27,710.0,305.0,71.0,34.0,0.0,0,Not Elevated
+Kui-DW,PATHANKOT,7.64,757.0,268.0,99.0,59.0,0.0,0,Not Elevated
+Kundal1,FAZILKA,8.45,302.0,73.0,20.0,22.0,0.0,0,Not Elevated
+Kundal1,FAZILKA,7.98,1790.0,452.0,319.0,177.0,0.01,0,Not Elevated
+Labanianwali,MUKATSAR,8.1,1722.0,452.0,175.0,205.0,0.01,0,Not Elevated
+Labanianwali,MUKATSAR,7.8,2030.0,659.0,184.3,297.0,0.03,0,Not Elevated
+Lacharu Kalan,PATIALA,8.1,2075.0,696.0,180.0,275.0,0.0,0,Not Elevated
+Lacharu Kalan,PATIALA,7.62,2193.0,880.0,231.0,350.0,0.01,0,Not Elevated
+Lachkani-Pz,PATIALA,7.76,977.0,587.0,40.0,135.0,0.02,0,Not Elevated
+Ladda-Pz,SANGRUR,8.14,630.0,439.0,14.0,82.0,0.01,0,Not Elevated
+Ladda-Pz,SANGRUR,8.05,689.0,489.0,13.0,86.0,0.03,0,Not Elevated
+Lallian kalan D,JALANDHAR,8.04,467.0,259.0,21.0,37.0,0.0,0,Not Elevated
+Lambi-Pz,MUKATSAR,8.47,2355.0,342.0,256.0,485.0,0.03,0,Not Elevated
+Lambi-Pz,MUKATSAR,7.67,2570.0,622.4,319.1,498.0,0.02,0,Not Elevated
+Landran,MOHALI,8.0,919.0,293.0,142.0,88.0,0.0,0,Not Elevated
+Landran,MOHALI,7.6,1386.0,622.0,142.0,189.0,0.0,0,Not Elevated
+Lauhke Kalan,FEROZEPUR,8.5,627.0,146.0,13.0,47.0,0.02,0,Not Elevated
+Lehragaga-PZ,SANGRUR,8.07,2087.0,543.0,138.0,388.0,0.04,1,Elevated
+Lil,LUDHIANA,8.05,645.0,447.0,10.0,42.0,0.02,0,Not Elevated
+Lil,LUDHIANA,8.14,1005.0,415.0,50.0,58.0,0.02,0,Not Elevated
+Longowal-Pz,SANGRUR,8.35,1250.0,708.0,42.0,260.0,0.08,1,Elevated
+Longowal-Pz,SANGRUR,7.95,1410.0,610.0,71.0,250.0,0.04,1,Elevated
+Mahal Kalan-Pz,BARNALA,7.96,1018.0,647.0,50.0,180.0,0.03,0,Not Elevated
+Mahal Kalan-Pz,BARNALA,8.2,1205.0,728.0,66.0,228.0,0.03,0,Not Elevated
+Mahendpur-Pz,SBS NAGAR,7.84,880.0,537.0,28.0,96.0,0.0,0,Not Elevated
+Mahilpur-Pz,HOSHIARPUR,8.45,587.0,63.0,21.0,70.0,0.0,0,Not Elevated
+Maisar Khana,BATHINDA,7.56,2201.0,732.2,212.7,342.0,0.06,1,Elevated
+Maksudra-Pz,LUDHIANA,8.25,915.0,537.0,21.0,65.0,0.01,0,Not Elevated
+Maksudra-Pz,LUDHIANA,8.2,1050.0,403.0,43.0,59.0,0.0,0,Not Elevated
+Malerkotla,SANGRUR,7.9,1125.0,521.0,59.0,120.0,0.03,0,Not Elevated
+Malerkotla-DW,SANGRUR,8.62,942.0,415.0,57.0,112.0,0.04,1,Elevated
+Malsian-D Pz,JALANDHAR,8.68,610.0,330.0,14.0,85.0,0.02,0,Not Elevated
+Malsian-D Pz,JALANDHAR,7.59,1069.0,456.0,49.0,115.0,0.01,0,Not Elevated
+Malsian-Pz,FEROZEPUR,8.58,507.0,171.0,20.0,47.0,0.0,0,Not Elevated
+Mandevi,SANGRUR,7.98,917.0,250.0,211.0,91.0,0.02,0,Not Elevated
+Mangat-Pz,LUDHIANA,8.04,658.0,329.0,14.0,71.0,0.01,0,Not Elevated
+Manvi-Pz,SANGRUR,7.81,792.0,489.0,13.0,49.0,0.03,0,Not Elevated
+Mardaheri,PATIALA,7.77,1307.0,749.0,99.0,170.0,0.04,1,Elevated
+Matta,FARIDKOT,8.54,1595.0,488.0,135.0,215.0,0.03,0,Not Elevated
+Matta,FARIDKOT,8.33,1630.0,452.0,284.0,170.0,0.03,0,Not Elevated
+Mauhra-Pz,SBS NAGAR,8.08,920.0,549.0,28.0,59.0,0.0,0,Not Elevated
+Mehmuana,FARIDKOT,7.78,5812.0,342.0,936.0,880.0,0.02,0,Not Elevated
+Mehmuana,FARIDKOT,7.84,1614.0,415.0,312.0,189.0,0.01,0,Not Elevated
+Mehta-Pz,AMRITSAR,8.38,475.0,220.0,14.0,43.0,0.01,0,Not Elevated
+Mirapur,PATIALA,7.98,1450.0,510.0,152.0,210.0,0.02,0,Not Elevated
+Mofar,MANSA,8.9,1800.0,635.0,94.0,420.0,0.3,1,Elevated
+Mohre Wala-Pz,FEROZEPUR,8.55,1825.0,366.0,121.0,350.0,0.03,0,Not Elevated
+Mohre Wala-Pz,FEROZEPUR,8.46,1355.0,464.0,106.0,300.0,0.09,1,Elevated
+Mukerian,HOSHIARPUR,8.1,401.0,146.0,24.0,22.0,0.0,0,Not Elevated
+Muktsar,MUKATSAR,7.86,4060.0,391.0,808.0,445.0,0.03,0,Not Elevated
+Muktsar,MUKATSAR,7.6,541.0,195.3,57.0,42.0,0.0,0,Not Elevated
+Mullowali 2(m),GURDASPUR,8.12,350.0,256.0,7.1,45.0,0.0,0,Not Elevated
+Mumra-Pz,FARIDKOT,8.45,3200.0,549.0,337.0,560.0,0.02,0,Not Elevated
+Mumra-Pz,FARIDKOT,8.26,2143.0,635.0,390.0,466.0,0.06,1,Elevated
+Nagal Bihala,HOSHIARPUR,7.88,667.0,256.0,40.0,27.0,0.0,0,Not Elevated
+Nagal Bihala,HOSHIARPUR,7.51,1004.0,391.0,78.0,33.0,0.01,0,Not Elevated
+Nahinwala,BATHINDA,8.3,1213.0,464.0,67.0,145.0,0.02,0,Not Elevated
+Nahinwala,BATHINDA,7.57,1980.0,964.1,106.4,300.0,0.03,0,Not Elevated
+Nakodar,JALANDHAR,8.44,566.0,354.0,7.1,79.0,0.01,0,Not Elevated
+Nakodar 1(d),JALANDHAR,8.03,759.0,457.0,14.0,99.0,0.01,0,Not Elevated
+Nalini-Pz,FATEHGARH SAHIB,8.42,667.0,275.0,14.0,56.0,0.03,0,Not Elevated
+Nalini-Pz,FATEHGARH SAHIB,7.61,1058.0,451.0,99.0,116.0,0.04,1,Elevated
+Nangal-Pz,FARIDKOT,7.89,2374.0,488.0,539.0,296.0,0.03,0,Not Elevated
+Nariana,PATIALA,8.08,1480.0,815.0,99.0,265.0,0.01,0,Not Elevated
+Nari -DW,HOSHIARPUR,8.15,510.0,317.0,13.5,38.0,0.01,0,Not Elevated
+Nawan Killa-Pz,FARIDKOT,8.38,575.0,232.0,20.0,32.0,0.01,0,Not Elevated
+Nawan Killa-Pz,FARIDKOT,8.17,697.0,281.0,92.0,42.0,0.0,0,Not Elevated
+Nawan Pind,PATHANKOT,8.1,320.0,159.0,14.0,9.08,0.0,0,Not Elevated
+Nawan Pind,PATHANKOT,8.0,320.0,146.0,21.0,9.0,0.0,0,Not Elevated
+Nawan Tanal- Pz,AMRITSAR,7.99,523.0,281.0,35.0,41.0,0.01,0,Not Elevated
+Nihalkhera,FAZILKA,8.28,820.0,366.0,47.0,63.0,0.01,0,Not Elevated
+Nihalsinghwala-Pz,MOGA,8.65,1280.0,696.0,78.0,290.0,0.08,1,Elevated
+Nihalsinghwala-Pz,MOGA,8.08,1550.0,923.0,79.0,305.0,0.06,1,Elevated
+Pan Khuh-DW,HOSHIARPUR,8.22,260.0,134.0,13.0,12.0,0.0,0,Not Elevated
+Parmota-DW,PATHANKOT,8.12,115.0,61.0,7.1,5.5,0.0,0,Not Elevated
+Parmota-DW,PATHANKOT,7.47,120.0,48.0,14.0,3.0,0.0,0,Not Elevated
+Pathankot1,PATHANKOT,7.89,450.0,232.0,28.0,33.0,0.0,0,Not Elevated
+Pathankot1,PATHANKOT,7.77,638.0,310.0,64.0,36.0,0.0,0,Not Elevated
+Patran-Pz,PATIALA,8.01,927.0,549.0,42.0,85.0,0.05,1,Elevated
+Patran-Pz,PATIALA,8.01,980.0,565.0,53.0,90.0,0.01,0,Not Elevated
+Pau Ludhina,LUDHIANA,8.05,690.0,354.0,28.0,39.0,0.03,0,Not Elevated
+Pawala,FATEHGARH SAHIB,8.67,798.0,201.0,43.0,142.0,0.0,0,Not Elevated
+Pawala,FATEHGARH SAHIB,8.39,740.0,244.0,43.0,55.0,0.01,0,Not Elevated
+Phagwara,KAPURTHALA,8.1,833.0,268.0,92.0,88.0,0.03,0,Not Elevated
+Phagwara1 (d),KAPURTHALA,7.98,721.0,423.0,28.0,55.0,0.02,0,Not Elevated
+Philour,JALANDHAR,8.2,625.0,391.0,7.1,68.0,0.02,0,Not Elevated
+Philour,JALANDHAR,7.83,826.0,408.0,42.0,78.0,0.01,0,Not Elevated
+Phuglana- Pz,HOSHIARPUR,8.28,768.0,360.0,36.0,105.0,0.01,0,Not Elevated
+Phul,BATHINDA,8.6,983.0,268.0,61.0,220.0,0.02,0,Not Elevated
+Phul,BATHINDA,8.23,1020.0,488.2,64.0,195.0,0.03,0,Not Elevated
+Phulla,BATHINDA,8.62,900.0,293.0,34.0,148.0,0.06,1,Elevated
+Phulla,BATHINDA,7.84,867.0,414.9,28.0,128.0,0.04,1,Elevated
+Piyarana,FEROZEPUR,8.48,1190.0,586.0,34.0,235.0,0.07,1,Elevated
+Punjab PATIALA NABHA Rajgarh,PATIALA,8.02,1113.0,695.0,20.0,175.0,0.05,1,Elevated
+Punjab SANGRUR DHURI Benra,SANGRUR,8.15,1004.0,641.0,33.0,126.0,0.04,1,Elevated
+Rahon,SBS NAGAR,7.86,800.0,488.0,28.0,85.0,0.01,0,Not Elevated
+Raike Kalan,BATHINDA,8.05,2612.0,415.0,323.0,320.0,0.04,1,Elevated
+Raike Kalan,BATHINDA,7.24,1774.0,427.1,177.3,237.0,0.0,0,Not Elevated
+Raipur Dhaba-Pz,SBS NAGAR,7.69,750.0,488.0,21.0,69.0,0.01,0,Not Elevated
+Raipur-Pz,MANSA,8.15,4455.0,671.0,667.0,785.0,0.04,1,Elevated
+Rajpura Pz M,PATIALA,8.12,1512.0,903.0,69.0,272.0,0.03,0,Not Elevated
+Rajpura Pz M,PATIALA,8.06,1520.0,619.0,59.0,301.0,0.02,0,Not Elevated
+Ralla,MANSA,8.2,335.0,171.0,13.0,7.3,0.03,0,Not Elevated
+Ralla,MANSA,7.59,245.0,98.0,7.0,9.5,0.0,0,Not Elevated
+Ramdas-DW,AMRITSAR,8.47,742.0,403.0,14.0,145.0,0.0,0,Not Elevated
+Ramdas-DW,AMRITSAR,8.1,373.0,238.0,14.0,47.0,0.0,0,Not Elevated
+Rampura,BATHINDA,8.7,1715.0,513.0,74.0,325.0,0.02,0,Not Elevated
+Rampura,BATHINDA,7.8,1451.0,695.6,120.5,230.0,0.04,1,Elevated
+Ratoke-Pz,TARN TARAN,8.4,1660.0,744.0,14.0,325.0,0.04,1,Elevated
+Ratoke-Pz,TARN TARAN,8.23,1068.0,470.0,142.0,204.0,0.02,0,Not Elevated
+Ratti Rori-Pz,FARIDKOT,9.06,567.0,110.0,50.0,50.0,0.01,0,Not Elevated
+Rurki Heeran-Pz,ROPAR,8.29,693.0,383.0,21.0,40.0,0.0,0,Not Elevated
+Rurki Heeran-Pz,ROPAR,7.61,837.0,244.0,85.0,44.0,0.0,0,Not Elevated
+Sadiq-Pz,FARIDKOT,8.3,4686.0,696.0,579.0,920.0,0.3,1,Elevated
+Sadiq-Pz,FARIDKOT,8.19,5624.0,928.0,1347.0,1025.0,0.07,1,Elevated
+Sahab Pura- Pz,TARN TARAN,8.28,332.0,180.0,28.0,17.0,0.01,0,Not Elevated
+Saidowal Kalan-DW,GURDASPUR,8.22,1416.0,452.0,113.0,105.0,0.03,0,Not Elevated
+Saleh Chak,GURDASPUR,8.31,1170.0,610.0,14.0,252.0,0.0,0,Not Elevated
+Saleh Chak,GURDASPUR,7.92,1056.0,574.0,57.0,138.0,0.0,0,Not Elevated
+Samana-Pz,PATIALA,7.67,1252.0,415.0,118.0,128.0,0.02,0,Not Elevated
+Samana-Pz,PATIALA,7.78,994.0,456.0,53.0,92.0,0.01,0,Not Elevated
+Samraj Tanda-DW,HOSHIARPUR,8.05,558.0,232.0,40.0,27.0,0.01,0,Not Elevated
+Samraj Tanda-DW,HOSHIARPUR,7.81,577.0,256.0,64.0,30.0,0.0,0,Not Elevated
+Sangatpura-Pz,PATIALA,7.85,1120.0,717.0,26.0,180.0,0.03,0,Not Elevated
+Sangatpura-Pz,PATIALA,8.18,1065.0,659.0,18.0,175.0,0.04,1,Elevated
+Sangat -Pz,BATHINDA,7.5,1253.0,598.0,57.0,119.0,0.04,1,Elevated
+Sarih,JALANDHAR,8.65,762.0,476.0,14.0,66.0,0.02,0,Not Elevated
+Sarih,JALANDHAR,7.99,766.0,428.0,28.0,101.0,0.01,0,Not Elevated
+Sarna,PATHANKOT,7.9,328.0,183.0,14.0,7.71,0.0,0,Not Elevated
+Sarna,PATHANKOT,7.68,363.0,190.0,35.0,5.0,0.0,0,Not Elevated
+Sathial-Pz,GURDASPUR,8.22,364.0,207.0,14.0,14.0,0.0,0,Not Elevated
+Shahkot-Pz-Pb,JALANDHAR,8.05,713.0,268.0,71.0,46.0,0.01,0,Not Elevated
+Shahkot-Pz-Pb,JALANDHAR,7.79,847.0,364.0,63.0,61.0,0.01,0,Not Elevated
+Sham Chaurasi,HOSHIARPUR,8.2,543.0,403.0,7.0,86.0,0.0,0,Not Elevated
+Sham Chaurasi,HOSHIARPUR,8.0,533.0,321.0,21.0,41.0,0.0,0,Not Elevated
+Sher Singh Wala- Pz,FARIDKOT,8.02,751.0,171.0,74.0,65.0,0.0,0,Not Elevated
+Sibo Chak- DW,HOSHIARPUR,7.93,490.0,354.0,13.0,47.0,0.0,0,Not Elevated
+Sidhwan Bet-Pz,LUDHIANA,7.5,515.0,317.0,6.73,6.8,0.01,0,Not Elevated
+Simbli-Pz,HOSHIARPUR,8.19,543.0,317.0,7.0,52.0,0.02,0,Not Elevated
+Sirsini,MOHALI,8.23,4586.0,421.0,716.0,560.0,0.01,0,Not Elevated
+Sirsini,MOHALI,8.33,925.0,281.0,92.0,186.0,0.0,0,Not Elevated
+Sitoganno,FAZILKA,8.02,5320.0,464.0,599.0,955.0,0.02,0,Not Elevated
+Sohangarh Ratte,FAZILKA,8.1,2815.0,647.0,425.0,410.0,0.02,0,Not Elevated
+Sukhwala-Pz,FARIDKOT,8.02,3327.0,378.0,465.0,560.0,0.02,0,Not Elevated
+Sukhwala-Pz,FARIDKOT,8.02,3321.0,488.0,837.0,636.0,0.02,0,Not Elevated
+Sultanpur,KAPURTHALA,8.82,1452.0,635.0,64.0,295.0,0.05,1,Elevated
+Sultanpur1 (d),KAPURTHALA,8.08,1081.0,487.0,57.0,167.0,0.03,0,Not Elevated
+Sunam-Pz,SANGRUR,8.48,532.0,281.0,14.0,30.0,0.02,0,Not Elevated
+Sunam-Pz,SANGRUR,8.1,939.0,630.0,40.0,95.0,0.03,0,Not Elevated
+Sundran-Pz,MOHALI,8.12,561.0,305.0,14.0,66.0,0.0,0,Not Elevated
+Sundran-Pz,MOHALI,7.92,668.0,427.0,14.0,63.0,0.0,0,Not Elevated
+Swah Wala- Pz,FAZILKA,8.7,2185.0,842.0,88.0,545.0,0.06,1,Elevated
+Talwandi Chaudary -Pz,KAPURTHALA,8.55,748.0,354.0,43.0,82.0,0.03,0,Not Elevated
+Talwandi Chaudary -Pz,KAPURTHALA,8.18,396.0,257.0,14.0,74.0,0.0,0,Not Elevated
+Talwara2,HOSHIARPUR,8.25,296.0,146.0,13.0,19.0,0.0,0,Not Elevated
+Tapa 07pz,BARNALA,8.68,1267.0,525.0,71.0,265.0,0.05,1,Elevated
+Tapa 07pz,BARNALA,8.14,1344.0,771.0,59.0,250.0,0.04,1,Elevated
+Tappa,BARNALA,8.08,937.0,348.0,46.0,190.0,0.01,0,Not Elevated
+Tehna-Pz,FARIDKOT,8.55,2632.0,549.0,189.0,565.0,0.04,1,Elevated
+Tehna-Pz,FARIDKOT,8.27,2647.0,683.0,510.0,514.0,0.03,0,Not Elevated
+Thakarwala,HOSHIARPUR,8.2,549.0,302.0,14.0,50.0,0.02,0,Not Elevated
+Thakarwala,HOSHIARPUR,8.28,588.0,360.0,28.0,44.0,0.01,0,Not Elevated
+Thua,PATIALA,7.32,2110.0,695.0,165.0,245.0,0.0,0,Not Elevated
+Udhopur,JALANDHAR,8.4,605.0,134.0,64.0,42.0,0.01,0,Not Elevated
+Udhopur,JALANDHAR,7.58,713.0,308.0,70.0,48.0,0.01,0,Not Elevated
+Wara Dwarka-Pz,FARIDKOT,8.23,2127.0,525.0,411.0,264.0,0.05,1,Elevated
