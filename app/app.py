@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 # -------------------------------------------------------------------
-# AQUifERGUARD | FRONTEND REDESIGN
+# AQUIFERA | FRONTEND REDESIGN
 # Existing model, features, target and project threshold are preserved.
 # -------------------------------------------------------------------
 
